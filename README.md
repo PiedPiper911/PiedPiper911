@@ -42,4 +42,4 @@ I focus on **agent workflow canvases, audio/video processing, SSR performance, a
 
 ---
 
-📮 [1162831964@qq.com](mailto:1162831964@qq.com) · 💬 WeChat: [你的微信 — 可选填]
+📮 [1162831964@qq.com](mailto:1162831964@qq.com)
