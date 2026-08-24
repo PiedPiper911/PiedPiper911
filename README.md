@@ -26,7 +26,6 @@ I focus on **agent workflow canvases, audio/video processing, SSR performance, a
 | Repository | Contribution |
 | --- | --- |
 | [Deer Flow #4865](https://github.com/bytedance/deer-flow/pull/4865) | `Merged` 修复非安全上下文（http://LAN-IP）下 artifact 预览/编辑失效（后端 ETag 下发真实 SHA-256，前端免 crypto.subtle 本地哈希），并按 review 优化大文件哈希性能 |
-| [DSH 插件库 #1428](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1428) | `Merged` 自研 dsh-video-tools（FFmpeg.wasm 音视频工具）与 dsh-workflow-canvas（React Flow 工作流画布）被官方插件库收录 |
 | [Mastra #19413](https://github.com/mastra-ai/mastra/pull/19413) | `Merged` 修复独立 Agent 执行后的内存泄漏（`stream()` 临时 Mastra 实例钩子未清理，模块级 emitter 持有引用导致堆线性增长） |
 | [Cherry Studio #18436](https://github.com/CherryHQ/cherry-studio/pull/18436) | `Merged` 修复 Windows 平台 MCP 服务器工具加载失败（`npx.cmd` 跨平台解析失败，回退 bun 解析出错误包） |
 | [0-AI-UG / cate #565](https://github.com/0-AI-UG/cate/pull/565) | `Merged` 修复映射网络驱动器在路径校验中的处理 |
